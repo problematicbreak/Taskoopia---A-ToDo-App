@@ -1,6 +1,16 @@
 # taskoopia
 
-A new Flutter project.
+Description: Developed an advanced task management mobile
+application using Flutter.
+Technologies Used: Flutter, Riverpod for state management,
+SQLite for local database, Firebase for cloud services.
+Achievements: Successfully implemented Riverpod for efficient
+state management, enhancing the app's responsiveness.
+Integrated SQLite for local data storage, enabling seamless
+offline functionality.
+Utilized Firebase for real-time data synchronization and
+authentication, ensuring a secure and dynamic user experience.
+
 
 ## Getting Started
 
